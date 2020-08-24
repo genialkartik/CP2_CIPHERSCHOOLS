@@ -1,0 +1,36 @@
+Sorting Algorithms:
+	Bubble Sort
+	Selection Sort
+	Insertion Sort
+
+	Merge Sort
+	Quick Sort
+	Heap Sort
+
+
+Kadane's Algorithm
+
+
+Remove Duplicates
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+Rotate Matrix
+https://www.interviewbit.com/problems/rotate-matrix/
+
+Monotonic Array
+https://leetcode.com/problems/monotonic-array/
+
+Cinema Seat Allocation
+https://leetcode.com/problems/cinema-seat-allocation/
+
+Pivot Element
+https://leetcode.com/problems/find-pivot-index/
+
+
+Homework:
+
+Majority Element
+https://leetcode.com/problems/majority-element/
+
+Make Two Arrays Equal by Reversing Sub-arrays
+https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/

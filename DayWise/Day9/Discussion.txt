@@ -1,0 +1,52 @@
+Binary Tree
+
+Preorder
+Inorder
+Postorder
+Level order traversal
+Count
+Height
+Print at level K
+Sum Tree
+Replace Child Sum
+Print Level order
+Mirror of BT
+isBalanced BT
+
+
+Binary Search Tree
+
+Insertion
+Search
+Deletion
+Build from Array
+Preorder
+Inorder
+Postorder
+Level order traversal
+
+
+Tree Problems:
+
+Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/
+https://leetcode.com/problems/diameter-of-binary-tree/discuss/573591/C%2B%2B-5-lines-O(n)-solution
+
+Flatten Binary Tree to Linked List
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37000/8ms-Non-recursive-No-stack-C%2B%2B-solution
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/37182/My-recursive-solution-is-easy-and-clean!
+
+
+Hashing 
+Hash table
+
+Heaps
+
+Kth Largest Element in an Array
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+Heapify
+Heap Sort
+
+Tries

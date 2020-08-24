@@ -1,0 +1,28 @@
+LinkedList Problems:
+
+Middle of Linkedlist
+Length
+Insertion
+Deletion
+Reverse Iterative
+Reverse Recursive
+Detect Cycle
+Merge 2 Sorted LL
+Merge K sorted LL
+https://leetcode.com/problems/merge-k-sorted-lists/
+
+
+Stack Problems:
+
+Max Nested Balanced Parantheses
+Stock Span
+https://leetcode.com/problems/online-stock-span/
+
+Largest Rectangle in Histogram
+https://leetcode.com/problems/largest-rectangle-in-histogram/
+https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+
+
+Queue Problems:
+
+https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/

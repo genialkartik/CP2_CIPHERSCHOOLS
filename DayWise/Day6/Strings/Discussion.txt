@@ -1,0 +1,23 @@
+2 pointer algorithm
+
+2 Sum problem
+
+
+Strings Problems:
+https://leetcode.com/tag/string/
+
+Roman to Integer
+https://leetcode.com/problems/roman-to-integer/
+
+Count and Say
+https://leetcode.com/problems/count-and-say/
+https://leetcode.com/problems/count-and-say/discuss/16043/C%2B%2B-solution-easy-understand
+
+Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix/
+https://leetcode.com/problems/longest-common-prefix/discuss/6926/Accepted-c%2B%2B-6-lines-4ms
+
+Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/
+https://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+
