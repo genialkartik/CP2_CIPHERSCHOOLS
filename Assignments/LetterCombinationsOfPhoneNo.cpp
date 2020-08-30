@@ -2,10 +2,12 @@ class Solution {
 public:
     vector<string>ar;
     vector<string> letterCombinations(string digits) {
+     if(digits.empty()) return vector<string>();
+
       vector<char> keypad[] = {
         {}, {},
         { 'a', 'b', 'c' },
-        { 'a', 'e', 'f' },
+        { 'd', 'e', 'f' },
         { 'g', 'h', 'i' },
         { 'j', 'k', 'l' },
         { 'm', 'n', 'o' },
