@@ -1,31 +1,18 @@
-#include <iostream>
-#include <string>
-#include <math.h>
+// www.geeksforgeeks.org/program-binary-decimal-conversion/
 
+#include<bits/stdc++.h>
 using namespace std;
 
-int toInt(char ch)
-{
-    if (ch == '1')
-        return 1;
-    return 0;
-}
-
-int toDecimal(string& binary)
-{
-    int len = binary.length();
-    int decimal = 0;
-    for (int i = 0; i < binary.length(); i++)
-        decimal += toInt(binary[i]) * pow(2, --len);
-    return decimal;
-}
-
-int main()
-{
-    string binary;
-    cin >> binary;
-
-    cout << toDecimal(binary);
-
-    return 0;
+int main(){
+  int n; cin>>n;
+  int res = 0;
+  int count = 0;
+  int rem;
+  while(n>0){
+    rem = n%10;
+    res = res + rem*pow(2, count);
+    count++;
+    n = n/10;
+  }
+  cout<<res;
 }
